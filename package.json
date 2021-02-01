@@ -1,5 +1,5 @@
 {
-  "name": "test-middleware",
+  "name": "@ami-geva/test-middleware",
   "version": "1.0.0",
   "description": "Test a middleware package",
   "main": "index.js",
