@@ -1,0 +1,19 @@
+{
+  "name": "test-middleware",
+  "version": "1.0.0",
+  "description": "Test a middleware package",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasemin"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amig/test-middleware.git"
+  },
+  "author": "Ami Geva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amig/test-middleware/issues"
+  },
+  "homepage": "https://github.com/amig/test-middleware#readme"
+}
