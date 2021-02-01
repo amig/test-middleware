@@ -8,7 +8,7 @@ module.exports = function mw(options) {
   options = options || {};
 
   return function (req, res, next) {
-    if (req.mw) {
+    if (req.mw || options.keep) {
       return next();
     }
     req.mw = {
